@@ -1,0 +1,28 @@
+Nome:
+Koalla Control C++
+
+Linguagem
+C++
+
+Descrição do Software:
+Software a ser executado de forma embarcada em ARP (Aeronave Remotamente Pilotada), em placa controladora Raspberry PI,  para capturar e processar imagens em tempo real, identificar obstáculos e áreas livres e conduzir a aeronave de forma autônoma em uma trajetória que a desvie destes obstáculos identificados, optando pela área de maior espaço livre.
+
+Autores:
+ wander mendes martins - wandermendes@unifei.edu.br
+ rafael gomes braga    - rafaelbraga@unifei.edu.br
+ alaxandre carlos brandão ramos - ramos@unifei.edu.br
+
+Ano:
+2017
+
+Aplicação:
+Identificação e desvio de obstáculos.
+
+Aplicado em:
+Dissertação de Mestrado em Ciências e Tecnologia da Computação da Universidade Federal de Itajubá - UNIFEI.
+
+HASH MD5:
+8111653A5AA9D49A2844CCC1E6C30D14
+
+Fonte do HASH MD5: 
+http://onlinemd5.com/
